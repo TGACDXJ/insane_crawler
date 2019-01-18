@@ -10,3 +10,5 @@ insane_crawler
 2. Django: live statistics.
 3. DM: cluster analysis
 4. MISC: separate settings
+
+哈哈
